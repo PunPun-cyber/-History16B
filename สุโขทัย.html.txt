@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History Of สุโขทัย</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: 'TH Chakra Petch', 'TH Sarabun', sans-serif; /* Thai luxury & vintage font */
+            background-color: #f4e1b2; /* Vintage beige background */
+            color: #4b3f2f; /* Dark brown text */
+            line-height: 1.8; /* Increased line height for readability */
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+        header {
+            background-color: #6a4e3a; /* Darker vintage background */
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 3em; /* Larger header font size */
+            border-bottom: 5px solid #4b3f2f;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+            background-color: #fff6e5;
+        }
+        h2 {
+            color: #6a4e3a;
+            font-size: 3em; /* Larger heading */
+            text-align: center;
+        }
+        p {
+            text-align: justify;
+            font-size: 1.6em; /* Increased font size for paragraphs */
+            margin-bottom: 25px; /* Increased space between paragraphs */
+        }
+        section {
+            margin-bottom: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Centers content horizontally */
+        }
+        section img {
+            width: 60%; /* Reduced size of the images */
+            max-width: 600px; /* Set a max-width for images */
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #6a4e3a;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>อาณาจักรสุโขทัย</h1>
+    </header>
+    <main>
+        <section id="home">
+            <h2>ยินดีต้อนรับสู่เว็บไซต์อาณาจักรสุโขทัย</h2>
+            <div>
+                <p>สุโขทัยเป็นอาณาจักรไทยโบราณที่เจริญรุ่งเรืองในศตวรรษที่ 13-15 และถือเป็นยุคทองของศิลปะและวัฒนธรรมไทย</p>
+                <p>สำรวจประวัติศาสตร์ที่น่าทึ่งและมรดกของสุโขทัยได้ที่นี่</p>
+            </div>
+            <img src="อุทยานประวัติศาสตร์สุโขทัย.jpg" alt="สุโขทัย" />
+        </section>
+
+        <section id="who-made-it">
+            <h2>ผู้ก่อตั้งอาณาจักรสุโขทัย</h2>
+            <div>
+                <p>อาณาจักรสุโขทัยก่อตั้งขึ้นในปี พ.ศ. 1781 โดยพ่อขุนศรีอินทราทิตย์ ซึ่งเป็นผู้ที่มีวิสัยทัศน์ในการรวบรวมดินแดนและก่อตั้งอาณาจักรที่มีความเข้มแข็ง</p>
+                <p>การตั้งอาณาจักรสุโขทัยถือเป็นจุดเริ่มต้นของการสร้างชาติไทยที่มีเอกลักษณ์ทางวัฒนธรรมและภาษาที่สำคัญจนถึงปัจจุบัน</p>
+                <p>พ่อขุนศรีอินทราทิตย์ได้สร้างฐานอำนาจที่มั่นคงจากเมืองสุโขทัย และถือเป็นผู้นำที่สำคัญในการรวบรวมอาณาจักรไทยในยุคนั้น</p>
+            </div>
+            <img src="อุทยานประวัติศาสตร์สุโขทัย-1.jpg" alt="พ่อขุนศรีอินทราทิตย์" />
+        </section>
+
+        <section id="history">
+            <h2>ประวัติศาสตร์สุโขทัย</h2>
+            <div>
+                <p>หลังจากการก่อตั้งในปี พ.ศ. 1781 สุโขทัยได้รับการขยายขอบเขตโดยพ่อขุนรามคำแหง ซึ่งในสมัยของเขา อาณาจักรสุโขทัยได้กลายเป็นศูนย์กลางของวัฒนธรรมไทยและเริ่มมีการพัฒนาอักษรไทยที่ยังใช้กันอยู่จนถึงปัจจุบัน</p>
+                <p>สุโขทัยถือเป็นยุคทองที่สำคัญในการพัฒนาศิลปะและวัฒนธรรมไทย เช่น การสร้างวัดและปราสาทในรูปแบบสถาปัตยกรรมไทยโบราณที่มีความงดงามเป็นเอกลักษณ์</p>
+                <p>พ่อขุนรามคำแหงได้พัฒนาตัวอักษรไทย ซึ่งได้สร้างรากฐานสำคัญในการสื่อสารและการใช้ภาษาไทยอย่างแพร่หลายในยุคนั้น</p>
+            </div>
+            <img src="44442253121CHANG LOM TEMPLE_resize.jpg" alt="พ่อขุนรามคำแหง" />
+        </section>
+
+        <section id="other-history">
+            <h2>ประวัติศาสตร์เพิ่มเติม</h2>
+            <div>
+                <p>ในช่วงที่สุโขทัยเจริญรุ่งเรือง อาณาจักรได้พัฒนาในด้านต่างๆ ทั้งการเมือง ศิลปะ การศึกษา และการค้าขาย จนทำให้เป็นหนึ่งในอาณาจักรที่มีอิทธิพลที่สุดในภูมิภาคเอเชียตะวันออกเฉียงใต้ในช่วงเวลาดังกล่าว</p>
+                <p>การเผยแพร่ภาษาไทยผ่านการใช้ตัวอักษรที่พัฒนาขึ้นในสมัยของพ่อขุนรามคำแหงช่วยทำให้การสื่อสารระหว่างผู้คนในอาณาจักรและชนเผ่าต่างๆ เป็นไปอย่างมีประสิทธิภาพ</p>
+                <p>หลังจากการล่มสลายของสุโขทัย อาณาจักรได้รับการสืบทอดโดยอาณาจักรอยุธยา และการตกเป็นส่วนหนึ่งของอาณาจักรอื่นๆ ส่งผลให้ศิลปะและวัฒนธรรมไทยยังคงมีอิทธิพลในภูมิภาคนี้จนถึงปัจจุบัน</p>
+                <p>อาณาจักรสุโขทัยเป็นสัญลักษณ์สำคัญในประวัติศาสตร์ไทย ที่ยืนยันถึงความสามารถในการสร้างสรรค์และพัฒนาระบบการปกครองและวัฒนธรรมที่ยั่งยืน</p>
+            </div>
+            <img src="Y0W6oPLAvTyIoz3fkAdu7RtUpcITHJdbsu1XdwO3.jpg" alt="อาณาจักรสุโขทัย" />
+        </section>
+    </main>
+    <footer>
+        <p>ลิขสิทธิ์ &copy; 2024 สุโขทัยประวัติศาสตร์</p>
+    </footer>
+</body>
+</html>
